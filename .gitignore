@@ -1,0 +1,21 @@
+# Environment Variables
+.env
+
+# Local SQLite idea cache
+ideas.db
+
+# Persisted daily rate-limit counter
+rate_limit_state.json
+
+# Python Cache & Virtual Environments
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+env/
+
+# IDE files
+.vscode/
+.idea/
