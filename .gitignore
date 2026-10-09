@@ -19,3 +19,6 @@ env/
 # IDE files
 .vscode/
 .idea/
+
+# descriptions
+projectdesc.txt
